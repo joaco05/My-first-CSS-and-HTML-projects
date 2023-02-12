@@ -50,8 +50,8 @@ h1, h2, .opening {
 
 form {
     width: 60vw;
-    max-width: 500px;
-    min-width: 300px;
+    max-width: 50%;
+    min-width: 20%;
     margin: 0 auto;
     padding-bottom: 2em;
   }
