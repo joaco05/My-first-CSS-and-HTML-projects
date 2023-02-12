@@ -9,6 +9,10 @@ body {
     min-height: 30px;
 }
 
+select {
+    width: 101%;
+}
+
 label, p {
     display: block;
     margin: 0.5rem 0.5rem;
