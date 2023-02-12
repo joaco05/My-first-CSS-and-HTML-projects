@@ -25,13 +25,12 @@ textarea {
 
 input[type="submit"] {
     display: block;
-    width: auto;
+    width: 100%;
     margin: 1em auto;
     height: 2em;
     font-size: 1.1rem;
     background-color: #2ACAD5CF;
     border-color: purple;
-    min-width: 300px;
   }
 
 fieldset {
@@ -59,4 +58,3 @@ form {
     margin: 0 auto;
     padding-bottom: 2em;
   }
-
